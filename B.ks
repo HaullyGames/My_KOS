@@ -1,0 +1,3 @@
+cd ("0:/GIT").
+CLEARSCREEN.
+PRINT PATH().

@@ -1,0 +1,43 @@
+T+239700 uiBanner : ascend: Ascend to 75km; Heading -90º
+T+239700 uiBanner : CountDown: Countdown initiated:
+T+239701 uiBanner : CountDown: T -3
+T+239702 uiBanner : CountDown: T -2
+T+239703 uiBanner : CountDown: T -1
+T+239704 uiBanner : CountDown: T -0
+T+239706 uiBanner : Terminal: Please choose an option in Terminal.
+T+239706 Terminal:  
+T+239706 Terminal: =================
+T+239706 Terminal: Choose an option:
+T+239706 Terminal: =================
+T+239706 Terminal:  
+T+239706 Terminal: Check error list or abort?
+T+239706 Terminal: Y) - Yes
+T+239706 Terminal: N) - About
+T+239706 Terminal: ?>
+T+239708 Terminal: ===> Yes
+T+239708 uiBanner : Terminal: Please make a choice in the Terminal.
+T+239708 Terminal:  
+T+239708 Terminal: Something is wrong, continue?
+T+239708 Terminal: =================
+T+239708 Terminal: Choose an option:
+T+239708 Terminal: =================
+T+239708 Terminal:  
+T+239708 Terminal: 0) - PANELS still deployed, ignore?
+T+239708 Terminal: Showing 1 of 1 options.
+T+239708 Terminal: Use arrows < and > to change pages
+T+239709 Terminal: ===> LIST of 2 items:
+[0] = "PANELS still deployed, ignore?"
+[1] = LEXICON of 2 items:
+  ["Y"] = "Yes"
+  ["N"] = "No"
+T+239709 uiBanner : Terminal: Please choose an option in Terminal.
+T+239709 Terminal:  
+T+239709 Terminal: =================
+T+239709 Terminal: Choose an option:
+T+239709 Terminal: =================
+T+239709 Terminal:  
+T+239709 Terminal: PANELS still deployed, ignore?
+T+239709 Terminal: Y) - Yes
+T+239709 Terminal: N) - No
+T+239709 Terminal: ?>
+T+239710 Terminal: ===> Yes

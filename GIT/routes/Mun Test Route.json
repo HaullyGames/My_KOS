@@ -1,0 +1,23 @@
+{
+    "items": [
+        {
+            "entries": [
+                "lat",
+                -0.50091768245298773,
+                "lng",
+                -75.927043114421025
+            ],
+            "$type": "kOS.Safe.Encapsulation.Lexicon"
+        },
+        {
+            "entries": [
+                "lat",
+                -0.55972908545356614,
+                "lng",
+                -75.936971868601347
+            ],
+            "$type": "kOS.Safe.Encapsulation.Lexicon"
+        }
+    ],
+    "$type": "kOS.Safe.Encapsulation.ListValue"
+}

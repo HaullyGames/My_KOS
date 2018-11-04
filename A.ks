@@ -1,0 +1,3 @@
+cd ("0:/MY").
+CLEARSCREEN.
+PRINT PATH().

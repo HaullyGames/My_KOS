@@ -1,0 +1,53 @@
+T+238489 uiBanner : ascend: Ascend to 75km; Heading -90º
+T+238489 uiBanner : CountDown: Countdown initiated:
+T+238490 uiBanner : CountDown: T -3
+T+238491 uiBanner : CountDown: T -2
+T+238492 uiBanner : CountDown: T -1
+T+238493 uiBanner : CountDown: T -0
+T+238494 uiBanner : Terminal: Please choose an option in Terminal.
+T+238494 Terminal:  
+T+238494 Terminal: =================
+T+238494 Terminal: Choose an option:
+T+238494 Terminal: =================
+T+238494 Terminal:  
+T+238494 Terminal: Check error list or abort?
+T+238494 Terminal: Y) - Yes
+T+238494 Terminal: N) - About
+T+238494 Terminal: ?>
+T+238497 Terminal: ===> Yes
+T+238497 uiBanner : Terminal: Please make a choice in the Terminal.
+T+238497 Terminal:  
+T+238497 Terminal: Something is wrong, continue?
+T+238497 Terminal: =================
+T+238497 Terminal: Choose an option:
+T+238497 Terminal: =================
+T+238497 Terminal:  
+T+238497 Terminal: 0) - PANELS still deployed, ignore?
+T+238497 Terminal: Showing 1 of 1 options.
+T+238497 Terminal: Use arrows < and > to change pages
+T+238497 Terminal: Invalid selection
+T+238497 Terminal:  
+T+238497 Terminal: Something is wrong, continue?
+T+238497 Terminal: =================
+T+238497 Terminal: Choose an option:
+T+238497 Terminal: =================
+T+238497 Terminal:  
+T+238497 Terminal: 0) - PANELS still deployed, ignore?
+T+238497 Terminal: Showing 1 of 1 options.
+T+238497 Terminal: Use arrows < and > to change pages
+T+238499 Terminal: ===> LIST of 2 items:
+[0] = "PANELS still deployed, ignore?"
+[1] = LEXICON of 2 items:
+  ["Y"] = "Yes"
+  ["N"] = "No"
+T+238499 uiBanner : Terminal: Please choose an option in Terminal.
+T+238499 Terminal:  
+T+238499 Terminal: =================
+T+238499 Terminal: Choose an option:
+T+238499 Terminal: =================
+T+238499 Terminal:  
+T+238499 Terminal: PANELS still deployed, ignore?
+T+238499 Terminal: Y) - Yes
+T+238499 Terminal: N) - No
+T+238499 Terminal: ?>
+T+238501 Terminal: ===> Yes
